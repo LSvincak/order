@@ -1,2 +1,2 @@
-# order
-Simple order management system created via Spring Boot
+# Order Management System
+Simple order management system with users created via Spring Boot 
