@@ -1,2 +1,2 @@
 # order
-Simple orders management system 
+Simple order management system created via Spring Boot
